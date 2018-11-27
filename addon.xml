@@ -15,6 +15,10 @@ provider-name="primaeval">
     <label>[COLOR red]Record[/COLOR]</label>
     <visible>True</visible>
   </item>
+</menu>
+</extension>
+  <extension point="kodi.context.item">
+<menu id="kodi.core.main">
   <item library="context2.py">
     <label>[COLOR green]Stop Recording[/COLOR]</label>
     <visible>True</visible>
