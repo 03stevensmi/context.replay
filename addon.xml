@@ -12,7 +12,7 @@ provider-name="primaeval">
 <extension point="kodi.context.item">
 <menu id="kodi.core.main">
   <item library="context.py">
-    <label>[COLOR goldenrod]Record Last Played[/COLOR]</label>
+    <label>[COLOR red]Record[/COLOR]</label>
     <visible>True</visible>
   </item>
 </menu>
